@@ -10,6 +10,6 @@
   },
   "imports": {
     "lume/": "https://raw.githubusercontent.com/lumeland/lume/b6ec73291d46a6d30642f5a780c7ea6632d29b71/",
-    "emoji/": "npm:/node-emoji@2/"
+    "emoji": "npm:node-emoji@2"
   }
 }

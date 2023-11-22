@@ -1,4 +1,4 @@
-import { emojify } from "npm:node-emoji@2/";
+import { emojify } from "npm:node-emoji@2";
 
 function index() {
   return <div>{emojify(":t-rex: :heart: NPM")}</div>;

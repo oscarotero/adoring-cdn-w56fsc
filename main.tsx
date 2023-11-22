@@ -1,3 +1,3 @@
-import { emojify } from "emoji/";
+import { emojify } from "emoji";
 
 console.log(emojify("I :heart: :coffee:!"));
